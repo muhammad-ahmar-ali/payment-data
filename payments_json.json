@@ -1,7 +1,7 @@
 [
   {
     "Platform": "Wayfair RONIT",
-    "Expected Payment Date": "Thursday, July 31, 2025",
+    "Payment Date": "Thursday, July 31, 2025",
     "Amount (USD)": "$29,251.98",
     "Month": "July",
     "Status": "Pending",
@@ -9,7 +9,7 @@
   },
   {
     "Platform": "Wayfair RONIT",
-    "Expected Payment Date": "Sunday, August 31, 2025",
+    "Payment Date": "Sunday, August 31, 2025",
     "Amount (USD)": "$93,002.32",
     "Month": "August",
     "Status": "Pending",
@@ -17,7 +17,7 @@
   },
   {
     "Platform": "Wayfair RONIT",
-    "Expected Payment Date": "Monday, September 15, 2025",
+    "Payment Date": "Monday, September 15, 2025",
     "Amount (USD)": "$43,100.12",
     "Month": "September",
     "Status": "Pending",
@@ -25,7 +25,7 @@
   },
   {
     "Platform": "Wayfair OR",
-    "Expected Payment Date": "Thursday, July 31, 2025",
+    "Payment Date": "Thursday, July 31, 2025",
     "Amount (USD)": "$7,239.42",
     "Month": "July",
     "Status": "Pending",
@@ -33,7 +33,7 @@
   },
   {
     "Platform": "Wayfair OR",
-    "Expected Payment Date": "Sunday, August 31, 2025",
+    "Payment Date": "Sunday, August 31, 2025",
     "Amount (USD)": "$24,939.80",
     "Month": "August",
     "Status": "Pending",
@@ -41,7 +41,7 @@
   },
   {
     "Platform": "Wayfair OR",
-    "Expected Payment Date": "Monday, September 15, 2025",
+    "Payment Date": "Monday, September 15, 2025",
     "Amount (USD)": "$23,957.08",
     "Month": "September",
     "Status": "Pending",
@@ -49,7 +49,7 @@
   },
   {
     "Platform": "Amazon",
-    "Expected Payment Date": "Friday, August 1, 2025",
+    "Payment Date": "Friday, August 1, 2025",
     "Amount (USD)": "$60,380.07",
     "Month": "August",
     "Status": "Pending",
@@ -57,7 +57,7 @@
   },
   {
     "Platform": "Walmart",
-    "Expected Payment Date": "Tuesday, July 29, 2025",
+    "Payment Date": "Tuesday, July 29, 2025",
     "Amount (USD)": "$6,363.81",
     "Month": "July",
     "Status": "Pending",
@@ -65,7 +65,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Monday, July 21, 2025",
+    "Payment Date": "Monday, July 21, 2025",
     "Amount (USD)": "$8,325.29",
     "Month": "July",
     "Status": "Processing",
@@ -73,7 +73,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Wednesday, July 23, 2025",
+    "Payment Date": "Wednesday, July 23, 2025",
     "Amount (USD)": "$13,755.60",
     "Month": "July",
     "Status": "Processing",
@@ -81,7 +81,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Friday, July 25, 2025",
+    "Payment Date": "Friday, July 25, 2025",
     "Amount (USD)": "$11,317.83",
     "Month": "July",
     "Status": "Processing",
@@ -89,7 +89,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Monday, July 28, 2025",
+    "Payment Date": "Monday, July 28, 2025",
     "Amount (USD)": "$7,227.16",
     "Month": "July",
     "Status": "Processing",
@@ -97,7 +97,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Wednesday, July 30, 2025",
+    "Payment Date": "Wednesday, July 30, 2025",
     "Amount (USD)": "$14,402.01",
     "Month": "July",
     "Status": "Processing",
@@ -105,7 +105,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Friday, August 1, 2025",
+    "Payment Date": "Friday, August 1, 2025",
     "Amount (USD)": "$3,393.90",
     "Month": "August",
     "Status": "Processing",
@@ -113,7 +113,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Monday, August 4, 2025",
+    "Payment Date": "Monday, August 4, 2025",
     "Amount (USD)": "$10,119.77",
     "Month": "August",
     "Status": "Processing",
@@ -121,7 +121,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Wednesday, August 6, 2025",
+    "Payment Date": "Wednesday, August 6, 2025",
     "Amount (USD)": "$18,780.12",
     "Month": "August",
     "Status": "Processing",
@@ -129,7 +129,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Friday, August 8, 2025",
+    "Payment Date": "Friday, August 8, 2025",
     "Amount (USD)": "$9,255.54",
     "Month": "August",
     "Status": "Processing",
@@ -137,7 +137,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Monday, August 11, 2025",
+    "Payment Date": "Monday, August 11, 2025",
     "Amount (USD)": "$6,183.93",
     "Month": "August",
     "Status": "Processing",
@@ -145,7 +145,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Wednesday, August 13, 2025",
+    "Payment Date": "Wednesday, August 13, 2025",
     "Amount (USD)": "$17,218.19",
     "Month": "August",
     "Status": "Processing",
@@ -153,7 +153,7 @@
   },
   {
     "Platform": "Home Depot",
-    "Expected Payment Date": "Friday, August 15, 2025",
+    "Payment Date": "Friday, August 15, 2025",
     "Amount (USD)": "$1,335.48",
     "Month": "August",
     "Status": "Processing",
@@ -161,7 +161,7 @@
   },
   {
     "Platform": "Overstock",
-    "Expected Payment Date": "Tuesday, July 15, 2025",
+    "Payment Date": "Tuesday, July 15, 2025",
     "Amount (USD)": "$14,715.36",
     "Month": "July",
     "Status": "On Hold",
@@ -169,7 +169,7 @@
   },
   {
     "Platform": "Overstock",
-    "Expected Payment Date": "Friday, August 1, 2025",
+    "Payment Date": "Friday, August 1, 2025",
     "Amount (USD)": "$5,001.53",
     "Month": "August",
     "Status": "Pending",
@@ -177,7 +177,7 @@
   },
   {
     "Platform": "Overstock",
-    "Expected Payment Date": "Friday, August 15, 2025",
+    "Payment Date": "Friday, August 15, 2025",
     "Amount (USD)": "$12,512.33",
     "Month": "August",
     "Status": "Pending",
@@ -185,7 +185,7 @@
   },
   {
     "Platform": "Overstock",
-    "Expected Payment Date": "Monday, September 1, 2025",
+    "Payment Date": "Monday, September 1, 2025",
     "Amount (USD)": "$9,182.58",
     "Month": "September",
     "Status": "Pending",
